@@ -15,5 +15,6 @@
 
 5. git push (Enviar los cambios del repo local al servidor)
 
-6. git init (Inicia un nuevo repo local
-)
+6. git init (Inicia un nuevo repo local)
+
+7. git pull (baja todo los cambios de la rama actual)
