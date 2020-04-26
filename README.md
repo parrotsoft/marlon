@@ -26,3 +26,5 @@
 10. git push -u origin nombreRama (Empuja la rama al servidor remoto)
 
 11. git fetch (Baja el nombre de todas las ramas remotas en el server)
+
+12. (se crea una nueva rama llamada beta)
