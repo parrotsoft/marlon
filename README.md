@@ -22,3 +22,7 @@
 8. git branch nombreRama (Crear una nueva rama partiendo de la actual)
 
 9. git checkout nombreRama (Cambia de la rama actual a la del nombre)
+
+10. git push -u origin nombreRama (Empuja la rama al servidor remoto)
+
+11. git fetch (Baja el nombre de todas las ramas remotas en el server)
